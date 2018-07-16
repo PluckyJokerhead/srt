@@ -16,7 +16,7 @@
 title: SRTips
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple little blog for tech tips. Will contain guides about Windows and Linux, written by Christopher Seadon.
+  Simple little blog for tech tips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PluckyJokerhead
