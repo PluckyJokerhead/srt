@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to SRTips!"
+date:   2018-07-16 11:08:31 +0100
+categories: init post
+---
+
+Welcome to SRTips! This is a blog I have created to create guides on how to tweak Windows 10 and Linux, in order to get the most out of your computing experience. Stay tuned for some interesting posts!
